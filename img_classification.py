@@ -1,3 +1,4 @@
+# IMAGE CLASSIFICATION PROJECT
 # downloaded MNIST datasets from "https://www.kaggle.com/oddrationale/mnist-in-csv/data"
 
 #!/usr/bin/env python
